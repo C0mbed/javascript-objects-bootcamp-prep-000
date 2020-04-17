@@ -1,4 +1,4 @@
-var playlist = {U2: 'Beautiful Day'};
+var playlist = {'Phil Ochs': 'Beautiful Day'};
 
 function updatePlaylist(playlist, artistName, songTitle) {
   delete playlist.U2;
